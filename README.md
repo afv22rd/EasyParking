@@ -9,16 +9,11 @@ EasyParking is a comprehensive smart parking management system designed to provi
 
 ### Frontend
 - **React Native (Expo)** for cross-platform mobile app development
-- **React Navigation** for app navigation
-- **Socket.io-client** for real-time updates
-- **AsyncStorage** for local data persistence
 
 ### Backend
 - **Node.js/Express** API server
 - **Supabase** for database (primary data storage)
 - **Firebase Authentication** for user management
-- **Socket.io** for WebSocket connections
-- **JWT** for authentication
 
 ### LPR System
 - **Raspberry Pi** cameras at entrance/exit points
